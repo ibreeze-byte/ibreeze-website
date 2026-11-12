@@ -1,0 +1,3 @@
+index.html
+/images/iBreeze_logo_4k.jpg
+/css/style.css
